@@ -1,0 +1,7 @@
+com/example/tapbuttoncounter/MainActivity.java
+ com.example.tapbuttoncounter.MainActivity
+ com.example.tapbuttoncounter.MainActivity$1
+com/example/tapbuttoncounter/Counter.java
+ com.example.tapbuttoncounter.Counter
+com/example/tapbuttoncounter/BuildConfig.java
+ com.example.tapbuttoncounter.BuildConfig
